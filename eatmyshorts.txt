@@ -4,3 +4,5 @@ i ja tez
 atak zombie
 
 ala ma kota
+
+robie zmiane i komita
